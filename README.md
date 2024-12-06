@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+![venvedor-errante-removebg2-preview](https://github.com/user-attachments/assets/7722000f-b364-403c-bbc2-672abb0d49bc)
+
 <!--
 **sistemacaixeiro/sistemacaixeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
